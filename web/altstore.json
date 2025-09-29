@@ -6,7 +6,7 @@
     {
       "beta": false,
       "name": "HWManager",
-      "bundleIdentifier": "de.randomfactory.randommodder.hwManagerFlutter.X45AC7XA3T",
+      "bundleIdentifier": "de.randomfactory.randommodder.hwManagerFlutter",
       "developerName": "RandomModder",
       "subtitle": "A homework manager utilizing untis for fetching the subjects of the week and discord as a cloud solution.",
       "version": "1.5.3",
