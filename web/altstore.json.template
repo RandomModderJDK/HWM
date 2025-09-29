@@ -1,0 +1,26 @@
+{
+  "name": "HWM",
+  "website": "https://randommodderjdk.github.io/HWM",
+  "identifier": "de.randomfactory.randommodder.hwManagerFlutter.source",
+  "apps": [
+    {
+      "beta": false,
+      "name": "HWManager",
+      "bundleIdentifier": "de.randomfactory.randommodder.hwManagerFlutter",
+      "developerName": "RandomModder",
+      "subtitle": "A homework manager utilizing untis for fetching the subjects of the week and discord as a cloud solution.",
+      "version": "%version%",
+# date +‘%Y-%m-%dT%H:%M:%S+%z:00
+      "versionDate": "%date%",
+      "versionDescription": "%changelog%",
+      "downloadURL": "https://github.com/RandomModderJDK/HWM/releases/download/%version%/hw-manager-%version%.ipa",
+      "localizedDescription": "A homework manager utilizing untis for fetching the subjects of the week and discord as a cloud solution.",
+      "iconURL": "https://github.com/RandomModderJDK/HWM/blob/main/assets/foreground-ios.png?raw=true",
+      "tintColor": "ee0000",
+      "size": %sizeInBytes%,
+      "screenshotURLs": [
+        "https://github.com/RandomModderJDK/HWM/blob/main/assets/foreground-ios.png?raw=true"
+      ]
+    }
+  ]
+}
