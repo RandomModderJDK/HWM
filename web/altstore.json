@@ -1,6 +1,6 @@
 {
   "name": "HWM",
-  "website": "https://randommodderjdk.github.io/HWM"
+  "website": "https://randommodderjdk.github.io/HWM",
   "identifier": "de.randomfactory.randommodder.hwManagerFlutter.source",
   "apps": [
     {
@@ -9,7 +9,7 @@
       "bundleIdentifier": "de.randomfactory.randommodder.hwManagerFlutter.X45AC7XA3T",
       "developerName": "RandomModder",
       "subtitle": "A homework manager utilizing untis for fetching the subjects of the week and discord as a cloud solution.",
-      "buildVersion": "1.5.3",
+      "version": "1.5.3",
       "versionDate": "2025-09-10T8:33:00+02:00",
       "versionDescription": "Removed unnecessary async keywords. Use own fork for proxies to support PAC files on android.",
       "downloadURL": "https://github.com/RandomModderJDK/HWM/releases/download/v1.5.3/hw-manager-v1.5.3.ipa",
