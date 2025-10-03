@@ -77,7 +77,7 @@ jobs:
           
       - run: flutter pub get
       - name: Run altstore-github
-        run: npx altstore-github --config web/altstore.template.json > web/altstore.json
+        run: npx github:randommodderjdk/altstore-github --config web/altstore.template.json > web/altstore.json
 
       # Implement this troguh other action - run: dart run sqflite_common_ffi_web:setup
       - name: Deploy
