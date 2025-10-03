@@ -4,7 +4,7 @@
     "website": "https://randommodderjdk.github.io/HWM",
     "identifier": "de.randomfactory.randommodder.hwManagerFlutter.source",
     "tintColor": "ee0000"
-  }
+  },
   "apps": [
     {
       "name": "HWManager",
