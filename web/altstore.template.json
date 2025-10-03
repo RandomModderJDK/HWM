@@ -12,6 +12,7 @@
       "githubOwner": "randommodderjdk",
       "githubRepository": "HWM",
       "skipPrerelease": true,
+      "beta": false,
       "developerName": "RandomModder",
       "subtitle": "Manage homeworks. Nicely.",
       "localizedDescription": "A homework manager utilizing untis for fetching the subjects of the week and discord as a cloud solution.",
