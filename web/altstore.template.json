@@ -12,6 +12,7 @@
       "githubOwner": "randommodderjdk",
       "githubRepository": "HWM",
       "skipPrerelease": true,
+      "filename": "",
       "beta": false,
       "minOSVersion": "13.0",
       "developerName": "RandomModder",
@@ -19,6 +20,7 @@
       "localizedDescription": "A homework manager utilizing untis for fetching the subjects of the week and discord as a cloud solution.",
       "iconURL": "https://github.com/RandomModderJDK/HWM/blob/main/assets/foreground-ios.png?raw=true",
       "tintColor": "ee0000",
+      "appPermissions": {},
       "screenshotURLs": [
         "https://github.com/RandomModderJDK/HWM/blob/main/assets/foreground-ios.png?raw=true"
       ]
